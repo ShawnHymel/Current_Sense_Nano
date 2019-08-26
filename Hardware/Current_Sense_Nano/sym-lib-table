@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Current_Sense_Nano)(type Legacy)(uri ${KIPRJMOD}/libraries/Current_Sense_Nano/Current_Sense_Nano.lib)(options "")(descr ""))
+  (lib (name INA214AIDCKR)(type Legacy)(uri ${KIPRJMOD}/libraries/INA214AIDCKR/INA214AIDCKR.lib)(options "")(descr ""))
+)

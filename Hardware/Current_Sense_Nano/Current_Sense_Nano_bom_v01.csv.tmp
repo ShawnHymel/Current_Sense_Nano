@@ -1,0 +1,24 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,Digi-Key_PN
+1,Unpolarized capacitor,C,C1,0.1 uF,,1,~,1276-1000-1-ND
+2,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x06,J1,Conn_01x06,,1,~,609-3263-ND
+3,Resistor,R,R1,0.01,,1,~,P124401CT-ND
+4,Resistor,R,R2,10,,1,~,A110351CT-ND
+5,Resistor,R,R3,10k,,1,~,P10KBSCT-ND
+6,,SW_DP3T,SW1,SW_DP3T,,1,,CWI424-ND
+7,,INA214AIDCKR,U1,INA214AIDCKR,DCK6,1,,296-38956-1-ND
+
+
+
+
+
+Component Groups:,7
+Component Count:,7
+Fitted Components:,7
+Number of PCBs:,1
+Total components:,7
+Schematic Version:,v01
+Schematic Date:,2019-08-25
+PCB Variant:,default
+BoM Date:,8/25/2019 8:59:32 PM
+Schematic Source:,C:\Users\sgmustadio\Documents\GitHub\Current_Sense_Nano\Hardware\Current_Sense_Nano\Current_Sense_Nano.sch
+KiCad Version:,Eeschema (5.1.0)-1
