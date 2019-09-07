@@ -1,4 +1,4 @@
-16394928022019010
+16410571657400061
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -41971,27 +41971,6 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
-Current_Sense_Nano
-PinHeader_1x06_P2.54mm_Vertical_NoSilk
-Through hole straight pin header, 1x06, 2.54mm pitch, single row
-Through hole pin header THT 1x06 2.54mm single row
-0
-6
-6
-Current_Sense_Nano
-Switch_Slide_20.7x10.4mm_G-128S-0157
-http://spec_sheets.e-switch.com/specs/P040040.pdf
-
-0
-8
-8
-Current_Sense_Nano
-z_BBC-BIT
-
-
-0
-3
-1
 digikey-footprints
 3-SIP_Module_TM1000Q
 
@@ -47194,12 +47173,12 @@ EMI Filter
 19
 4
 footprints
-INA214AIDCKR
+0ZCK0050FF2E
 
 
 0
-6
-6
+2
+2
 Fuse
 Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin
 Fuseholder ATO Blade littelfuse Pudenz 2 Pin
@@ -68074,6 +68053,97 @@ https://www.farnell.com/cad/316865.pdf?_ga=2.37208032.177107060.1530611323-24901
 0
 48
 48
+STM32F070CBT6
+QFP50P900X900X160-48N
+
+
+0
+48
+48
+STM32F070_Breakout
+Crystal_SMD_Abracon_ABLS
+
+
+0
+2
+2
+STM32F070_Breakout
+Crystal_SMD_Citizen_CM130
+
+
+0
+4
+4
+STM32F070_Breakout
+OSHW-Symbol_3.3x3mm_SilkScreen
+
+
+0
+0
+0
+STM32F070_Breakout
+PinHeader_1x05_P2.54mm_Vertical_NoSilk
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+STM32F070_Breakout
+PinHeader_1x16_P2.54mm_Vertical_NoSilk
+Through hole straight pin header, 1x16, 2.54mm pitch, single row
+Through hole pin header THT 1x16 2.54mm single row
+0
+16
+16
+STM32F070_Breakout
+PTS647
+
+
+0
+4
+2
+STM32F070_Breakout
+Shawn-Logo_3x3mm_SilkScreen
+
+
+0
+0
+0
+STM32F070_Breakout
+Shawn-Logo_4x4mm_SilkScreen
+
+
+0
+0
+0
+STM32F070_Breakout
+Shawn-Logo_5x5mm_SilkScreen
+
+
+0
+0
+0
+STM32F070_Breakout
+Shawn-Logo_6x6mm_SilkScreen
+
+
+0
+0
+0
+STM32F070_Breakout
+TestPoint_Pad_1.0x2.5mm
+SMD rectangular pad as test Point, square 2.5mm side length
+test point SMD pad rectangle square
+0
+1
+1
+STM32F070_Breakout
+USB_Micro_B_Female_10118194-0001LF_oversized_pads
+http://portal.fciconnect.com/Comergent//fci/drawing/10118194.pdf
+
+0
+13
+6
 Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking
